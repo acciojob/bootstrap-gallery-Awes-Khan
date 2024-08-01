@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+.card-title, .card-text {
+    text-align: center;
+}
